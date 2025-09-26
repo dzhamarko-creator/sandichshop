@@ -30,5 +30,6 @@ public class GarlicSandwichShop {
         System.out.println("Your sandwich will cost: $" + String.format("%.2f", price));
 
         sc.close();
+
     }
 }
